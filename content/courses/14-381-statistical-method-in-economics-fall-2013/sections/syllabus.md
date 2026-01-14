@@ -26,7 +26,7 @@ Prerequisite
 Text
 ----
 
-The text, which will be followed closely, is {{% resource_link "522edab8-7ddc-4bf9-b508-61e106cb952f" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Casella, George, and Roger L. Berger. _Statistical Inference_. Cengage Learning, 2001. ISBN: 9780534243128.
+The text, which will be followed closely, is [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0534243126/ref=nosim/mitopencourse-20) Casella, George, and Roger L. Berger. _Statistical Inference_. Cengage Learning, 2001. ISBN: 9780534243128.
 
 This book covers all of the material of the course and, in addition, provides many problems for practice as well as excellent references.
 
